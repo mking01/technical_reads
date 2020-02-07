@@ -1,2 +1,2 @@
-# technical_reads
-A variety of DS book resources
+# Technical Reads
+A variety of DS resources.  Welcome to my virtual library!
